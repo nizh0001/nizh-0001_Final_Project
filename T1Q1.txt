@@ -1,0 +1,4 @@
+cd Documents
+cd code
+touch T1Q1.txt
+nano T1Q1.txt
