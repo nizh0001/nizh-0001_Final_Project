@@ -1,8 +1,10 @@
-#Veronika Nizhankivska
-##Username: nizh-0001
+# Veronika Nizhankivska
+
+## Username: nizh-0001
 
 My JavaScript answer:
-`
+
+```
 let weight = 90;
 let height = 1.91;
 let bmi = 0;
@@ -31,7 +33,8 @@ console.log(
     bmi
   )} `
 );
-`
+```
+
 ![Answer3](./AndroidApp.jpg)
 ![Answer4](./iOS.jpg)
 ![Answer5](./Paralles.jpg)
